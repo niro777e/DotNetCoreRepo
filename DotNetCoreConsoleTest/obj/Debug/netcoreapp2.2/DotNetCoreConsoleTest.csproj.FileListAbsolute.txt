@@ -1,0 +1,14 @@
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\DotNetCoreConsoleTest.deps.json
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\DotNetCoreConsoleTest.runtimeconfig.json
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\DotNetCoreConsoleTest.runtimeconfig.dev.json
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\DotNetCoreConsoleTest.dll
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\DotNetCoreConsoleTest.pdb
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\NetCoreLibraryTest.dll
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Debug\netcoreapp2.2\NetCoreLibraryTest.pdb
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.csprojAssemblyReference.cache
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.AssemblyInfo.cs
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.csproj.CopyComplete
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.dll
+C:\Users\Niro\documents\visual studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Debug\netcoreapp2.2\DotNetCoreConsoleTest.pdb

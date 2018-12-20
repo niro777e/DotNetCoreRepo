@@ -1,0 +1,17 @@
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.exe
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.deps.json
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.runtimeconfig.json
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.runtimeconfig.dev.json
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.dll
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.pdb
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\NetCoreLibraryTest.dll
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\bin\Release\netcoreapp2.2\win-x64\NetCoreLibraryTest.pdb
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.csprojAssemblyReference.cache
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.AssemblyInfo.cs
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.csproj.CopyComplete
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.dll
+C:\Users\Niro\Documents\Visual Studio 2017\Projects\DotNetCoreConsoleTest\DotNetCoreConsoleTest\obj\Release\netcoreapp2.2\win-x64\DotNetCoreConsoleTest.pdb
