@@ -10,6 +10,7 @@ namespace DotNetCoreConsoleTest
             Console.WriteLine(NetCoreLibraryTest.Utilities.PrintHelloWorld());
 
             Console.ReadKey();
+
         }
     }
 }
